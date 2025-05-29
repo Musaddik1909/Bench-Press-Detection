@@ -22,8 +22,11 @@ Interactive Web Interface: Built with Streamlit for easy video upload and result
 🛠️ Tech Stack
 
 Pose Estimation: MediaPipe, OpenCV
+
 Deep Learning: PyTorch, PyTorch Geometric (DisenGCN implementation)
+
 Data Processing: Pandas, NumPy, scikit-learn
+
 Frontend: Streamlit
 
 📂 Project Structure
