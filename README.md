@@ -65,9 +65,13 @@ Global pooling and fully connected layers for phase classification.
 Loss: Cross-entropy loss with Adam optimizer.
 
 📊 Results
+
 Metric	Value
+
 Test Accuracy	93.99%
+
 Precision	93.4%
+
 Recall	95.04%
 
 Team: 
