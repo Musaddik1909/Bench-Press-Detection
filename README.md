@@ -81,18 +81,18 @@ Recall	95.04%
 Team: 
 1) Musaddik Ibrahim Karanje
 
-  🔗 Connect: www.linkedin.com/in/musaddik19
-  
-  📧 Contact: musaddikkaranje@gmail.com
+      🔗 Connect: www.linkedin.com/in/musaddik19
+      
+      📧 Contact: musaddikkaranje@gmail.com
 
 2) Samrat Ganguly
    
-  🔗 Connect: www.linkedin.com/in/samratganguly03
-  
-  📧 Contact: blueoctopus@gmail.com
+      🔗 Connect: www.linkedin.com/in/samratganguly03
+      
+      📧 Contact: blueoctopus@gmail.com
 
 3) Sahil Bhadane
   
-  🔗 Connect: www.linkedin.com/in/04sahil
-  
-  📧 Contact: sahilbhadane04@gmail.com
+      🔗 Connect: www.linkedin.com/in/04sahil
+      
+      📧 Contact: sahilbhadane04@gmail.com
