@@ -33,7 +33,7 @@ Frontend: Streamlit
 
   bench-press-analysis/  
   ├── data/  
-  │   ├── train.csv            # Labeled training data (3D coordinates + phase labels)  
+  │   ├── train.csv            # Labeled training data (2D coordinates + phase labels)  
   │   └── test.csv             # Test dataset  
   ├── models/  
   │   ├── disentangled_gcn.py  # DisenGCN model implementation  
