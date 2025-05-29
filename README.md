@@ -76,12 +76,12 @@ Team:
   🔗 Connect: www.linkedin.com/in/musaddik19
   📧 Contact: musaddikkaranje@gmail.com
 
-3) Samrat Ganguly
+2) Samrat Ganguly
    
   🔗 Connect: www.linkedin.com/in/samratganguly03
   📧 Contact: blueoctopus@gmail.com
 
-5) Sahil Bhadane
-   
+3) Sahil Bhadane
+  
   🔗 Connect: www.linkedin.com/in/04sahil
   📧 Contact: sahilbhadane04@gmail.com
