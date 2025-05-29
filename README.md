@@ -3,9 +3,11 @@ Bench Press Phase Classification with DisenGCN and MediaPipe
 An AI-powered system for real-time bench press analysis, phase classification, and rep counting using pose estimation and graph neural networks.
 
 📌 Overview
+
 This project leverages 3D pose estimation (via MediaPipe) and Disentangled Graph Convolutional Networks (DisenGCN) to classify bench press movement phases ("UP" or "DOWN") and count repetitions from video input. It is designed for fitness enthusiasts, trainers, and researchers to analyze exercise form, track performance, and prevent injuries.
 
 🚀 Features
+
 Real-Time Pose Estimation: Extracts 3D coordinates of shoulders, elbows, and wrists using MediaPipe.
 
 Biomechanical Feature Engineering: Computes joint angles (e.g., elbow flexion/extension) and spatial relationships between landmarks.
