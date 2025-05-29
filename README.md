@@ -38,3 +38,45 @@ Frontend: Streamlit
   ├── app/  
   │   └── main.py              # Streamlit web application  
   └── requirements.txt         # Dependency list  
+
+🖥️ Usage
+1. Run the Streamlit App
+
+bash
+
+streamlit run app/main.py  
+Upload a video file or use a webcam for real-time analysis.
+
+View classified phases ("UP"/"DOWN"), rep counts, and form feedback.
+
+🧠 Model Architecture
+
+Disentangled Graph Convolutional Network (DisenGCN)
+Input: 24-dimensional feature vector (2D coordinates + visibility for 6 upper-body landmarks).
+
+Graph Construction: Joints as nodes, biomechanical relationships as edges.
+
+Layers:
+Disentangled graph convolution to model latent factors (landmarks).
+Global pooling and fully connected layers for phase classification.
+
+Loss: Cross-entropy loss with Adam optimizer.
+
+📊 Results
+Metric	Value
+Test Accuracy	93.99%
+Precision	93.4%
+Recall	95.04%
+
+Team: 
+1) Musaddik Ibrahim Karanje
+  🔗 Connect: www.linkedin.com/in/musaddik19
+  📧 Contact: musaddikkaranje@gmail.com
+
+2) Samrat Ganguly
+  🔗 Connect: www.linkedin.com/in/samratganguly03
+  📧 Contact: blueoctopus@gmail.com
+
+3) Sahil Bhadane
+  🔗 Connect: www.linkedin.com/in/04sahil
+  📧 Contact: sahilbhadane04@gmail.com
