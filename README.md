@@ -46,7 +46,7 @@ Frontend: Streamlit
 
 bash
 
-streamlit run app/main.py  
+streamlit run app.py  
 Upload a video file or use a webcam for real-time analysis.
 
 View classified phases ("UP"/"DOWN"), rep counts, and form feedback.
